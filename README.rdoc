@@ -1,0 +1,31 @@
+== README
+
+Tutorial Author: Daniela Gattoni
+Ceated at: 08 march 2015
+
+for study purposes for DesafioLatam Bootcamp 2015, Stgo, Chile.
+
+
+Tutorial Steps (spanish only for now!) 
+http://danielagattoni.quiltyweb.com/creando-url-friendly-en-ruby-on-rails-en-5-pasos/
+
+Tutorial Description:
+En este tutorial te explico como crear de manera simple una url friendly o url amigable a partir de un "slug" para tu aplicación en rails.
+
+El concepto de Slug es un término que hace referencia al título de una noticia o artículo en el que se han sustituido los espacios en blanco por guiones y se han eliminado todos los caracteres que no sean letras o números.
+Ahora que  sabemos que es el slug, vamos al paso a paso para generar slug automáticamente para nuestros posts.
+
+
+Things you may want to cover:
+
+* Ruby version ruby 2.2.0p0 (2014-12-25 revision 49005)
+
+* Rails version Rails 4.2.0
+
+* System dependencies
+
+* Configuration
+
+* Database creation sqlite
+ 
+ 
